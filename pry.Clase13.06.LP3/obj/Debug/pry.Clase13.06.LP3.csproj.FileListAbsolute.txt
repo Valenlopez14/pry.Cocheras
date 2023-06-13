@@ -1,0 +1,11 @@
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\bin\Debug\pry.Clase13.06.LP3.exe.config
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\bin\Debug\pry.Clase13.06.LP3.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\bin\Debug\pry.Clase13.06.LP3.pdb
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\obj\Debug\pry.Clase13.06.LP3.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\obj\Debug\pry.Clase13.06.LP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\obj\Debug\pry.Clase13._06.LP3.Form1.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\obj\Debug\pry.Clase13._06.LP3.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\obj\Debug\pry.Clase13.06.LP3.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\obj\Debug\pry.Clase13.06.LP3.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\obj\Debug\pry.Clase13.06.LP3.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.Clase13.06.LP3\obj\Debug\pry.Clase13.06.LP3.pdb
